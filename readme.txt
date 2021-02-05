@@ -14,3 +14,7 @@ curl -X GET 'http://localhost:9603/get/score?requestId=TGT01&gameId=40&playerNam
 Get currentScoreBoard API (uri "/get/current/scoreboard")
 This API is used to get the current scoreboard, i.e., All games in PLAYING status. A GAME can have 3 status (INITIALIZED, PLAYING, COMPLETED)
 curl -X GET 'http://localhost:9603/get/current/scoreboard?requestId=TGT01' -H 'Content-Type: application/json'
+
+
+Run db_scripts.sql  on mysql instance(5.x)
+Run the main application

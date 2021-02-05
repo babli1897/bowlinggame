@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb13606-c1c3-4c96-87eb-8b02bc24065b" name="Default Changelist" comment="" />
+    <list default="true" id="8bb13606-c1c3-4c96-87eb-8b02bc24065b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datasource/target/" />
@@ -41,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="110" lean-forward="true" selection-start-line="15" selection-start-column="110" selection-end-line="15" selection-end-column="110" />
+            <state relative-caret-position="285">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -80,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datasource/src/main/java/com/target/model/Lane.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -110,6 +112,9 @@
       <find>throw new R</find>
       <find>throw new</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,12 +164,12 @@
         <option value="$PROJECT_DIR$/datasource/src/main/java/com/target/repository/LaneRepository.java" />
         <option value="$PROJECT_DIR$/datasource/src/main/java/com/target/dataservice/GameDataService.java" />
         <option value="$PROJECT_DIR$/game/src/main/java/com/target/controllers/GameController.java" />
-        <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/game/src/main/java/com/target/validator/RequestValidator.java" />
         <option value="$PROJECT_DIR$/game/src/main/java/com/target/service/GameService.java" />
         <option value="$PROJECT_DIR$/game/src/main/java/com/target/enums/Enums.java" />
         <option value="$PROJECT_DIR$/game/src/main/java/com/target/controllers/ControllerAdvice.java" />
         <option value="$PROJECT_DIR$/game/src/main/resources/db_scripts.sql" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -187,6 +192,7 @@
     <option name="width" value="1281" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -198,6 +204,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44558823" />
@@ -244,8 +251,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31394422" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31394422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24940239" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -747,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="110" lean-forward="true" selection-start-line="15" selection-start-column="110" selection-end-line="15" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game/src/main/java/com/target/enums/Enums.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -771,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game/src/main/resources/db_scripts.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datasource/src/main/java/com/target/model/Lane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -785,6 +779,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/src/main/resources/db_scripts.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
